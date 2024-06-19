@@ -1,0 +1,8 @@
+Extrême gauche
+Gauche
+Centre
+Droite
+Extrême droite
+Vote blanc
+Vote nul
+Ne pas voter

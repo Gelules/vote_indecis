@@ -1,0 +1,10 @@
+Vote Indécis est le résulat de plusieurs années de développement d'une IA unique
+en son genre qui prend une décision de vote à votre place, calculée pour être
+50% plus intelligent que la moyenne.
+
+Usage :
+* Lister vos choix dans le fichiers decisions.txt (choix génériques par défaut)
+* Exécuter le script de l'IA 'vote.py'
+
+Requirements :
+Le paquet 'random' ; coeur de l'IA
